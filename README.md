@@ -240,16 +240,6 @@ Security
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Henriquesilva0328-181717?style=for-the-badge&logo=github)](https://github.com/Henriquesilva0328)
-
-</div>
-
----
-
 <div align="center">
 
 ### Engineering backend systems where  
@@ -258,4 +248,3 @@ Security
 `Backend Engineering` · `Distributed Systems` · `Security`
 
 </div>
-````
