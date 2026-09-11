@@ -240,13 +240,11 @@ Security
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Henriquesilva0328&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesilva0328&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
+[![GitHub](https://img.shields.io/badge/GitHub-Henriquesilva0328-181717?style=for-the-badge&logo=github)](https://github.com/Henriquesilva0328)
 
 </div>
 
