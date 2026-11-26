@@ -38,15 +38,15 @@ optimism = "eventually consistent"
 
 ## 02 / Sacred arsenal — Tech stack
 
-| Domain | Technologies | Doctrine |
+| Domain | Technologies |
 | :--- | :--- | :--- |
-| Languages | Python · Java | Sacred languages |
-| APIs & backend | FastAPI · Spring Boot | Invocation gateways |
-| Persistence | PostgreSQL · SQLAlchemy · Spring Data JPA · Alembic | Sacred data vault |
-| Messaging | Apache Kafka | Noospheric communications |
-| Infrastructure | Docker · GitHub Actions | Containment and deployment rites |
-| Quality | pytest · Ruff | Rites of validation |
-| Observability | Prometheus · Grafana | Eyes of the Omnissiah |
+| Languages | Python · Java |
+| APIs & backend | FastAPI · Spring Boot |
+| Persistence | PostgreSQL · SQLAlchemy · Spring Data JPA · Alembic |
+| Messaging | Apache Kafka |
+| Infrastructure | Docker · GitHub Actions |
+| Quality | pytest · Ruff |
+| Observability | Prometheus · Grafana |
 
 *The flesh is weak. The database constraints are not.*
 
